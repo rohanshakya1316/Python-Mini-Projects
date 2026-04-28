@@ -17,3 +17,5 @@
 7. Bar Graph using Matplotlib in Python ---> bar_graph.png
 
 8. Pie Chart using Matplotlib in Python ---> pie_chart.png
+
+9. Real Time Currency Converter using forex-python library ---> `python realtime_currency_converter.py`
