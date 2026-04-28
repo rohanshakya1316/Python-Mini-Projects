@@ -16,3 +16,4 @@
 
 7. Bar Graph using Matplotlib in Python ---> bar_graph.png
 
+8. Pie Chart using Matplotlib in Python ---> pie_chart.png
