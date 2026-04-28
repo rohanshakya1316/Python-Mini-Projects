@@ -7,3 +7,5 @@
 2. Chess Board Design using matplotlib library ---> chessboard.png
 
 3. Radar Plot using plotly ---> radar.html
+
+4. Password Authentication using getpass in Python ---> For output: run `python python password_authentication.py`
