@@ -10,3 +10,5 @@
 
 4. Password Authentication using getpass in Python ---> For output: run `python password_authentication.py`
 
+5. Avatar Logo using Turtle ---> avatar_logo.png
+
