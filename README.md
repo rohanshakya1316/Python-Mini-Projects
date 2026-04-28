@@ -26,4 +26,6 @@
 
 12. Contack Book in Python ---> For output: run `python contact_book.py`
 
-12. Pick a Random Card using random module of Python ---> For output: run `python pick_random_card.py`
+13. Pick a Random Card using random module of Python ---> For output: run `python pick_random_card.py`
+
+14. Fidget Spinner Game using turtle in Python ---> fidget_spinner_game.png ==> to spin press space frequently
