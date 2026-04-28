@@ -12,4 +12,4 @@
 
 5. Avatar Logo using Turtle ---> avatar_logo.png
 
-6. Defang IP Address using Python ---> For output: ``` python python defang_ip_address.py ```
+6. Defang IP Address using Python ---> For output: `python defang_ip_address.py`
