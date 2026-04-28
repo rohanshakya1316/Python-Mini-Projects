@@ -8,4 +8,5 @@
 
 3. Radar Plot using plotly ---> radar.html
 
-4. Password Authentication using getpass in Python ---> For output: run `python python password_authentication.py`
+4. Password Authentication using getpass in Python ---> For output: run `python password_authentication.py`
+
