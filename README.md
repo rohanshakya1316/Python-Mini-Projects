@@ -18,4 +18,6 @@
 
 8. Pie Chart using Matplotlib in Python ---> pie_chart.png
 
-9. Real Time Currency Converter using forex-python library ---> `python realtime_currency_converter.py`
+9. Real Time Currency Converter using forex-python library ---> For output: run `python realtime_currency_converter.py`
+
+10. Extract Text from PDF using PDF2 in Python ---> For output: run `python extract_text_from_py`
