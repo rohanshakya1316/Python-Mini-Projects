@@ -20,4 +20,4 @@
 
 9. Real Time Currency Converter using forex-python library ---> For output: run `python realtime_currency_converter.py`
 
-10. Extract Text from PDF using PDF2 in Python ---> For output: run `python extract_text_from_py`
+10. Extract Text from PDF using PyPDF2 in Python ---> For output: run `python extract_text_from_py`
