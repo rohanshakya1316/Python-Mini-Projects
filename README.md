@@ -31,3 +31,6 @@
 14. Fidget Spinner Game using turtle in Python ---> fidget_spinner_game.png ==> to spin press space frequently
 
 15. Spelling Correction using textblob in Python ---> For output: run `python spelling_correction.py`
+
+16. Three Dimensional Contour plots using Numpy and Matplotlib in Python ---> 3D_contour_plots.png 
+
