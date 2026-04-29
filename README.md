@@ -34,3 +34,4 @@
 
 16. Three Dimensional Contour plots using Numpy and Matplotlib in Python ---> 3D_contour_plots.png 
 
+17. Three Dimensional Points and Lines using Numpy and Matplotlib in Python ---> 3D_points_and_lines.png
