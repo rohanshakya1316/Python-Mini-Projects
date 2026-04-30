@@ -48,4 +48,5 @@
 
 23. Country Information Generation using countryinfo library in Python ---> For output: run `python country_info.py`
 
-24. 
+24. Language Detection using langdetect and langid library in Python ---> For output: run `python language_detection.py`
+
