@@ -57,3 +57,7 @@
 27. BMI Calculator in Python ---> For output: run `python bmi_calculator.py`
 
 28. Treemap using plotly in Python ---> treemap.html
+
+29. Text to Handwriting using opencv-python and pywhatkit library in Python ---> For output: run `python text_to_handwriting.py`
+
+30. 
