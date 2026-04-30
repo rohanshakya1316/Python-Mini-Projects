@@ -38,4 +38,6 @@
 
 18. Live Weather Updates with Python using OpenWeather API Keys ---> For output: run `python live_weather_updates.py`
 
-19. 
+19. 3D Graphs with Matplotlib Library in Python ---> 3D_graphs.png, 3D_graphs_2.png, 3D_graphs_3.png
+
+20. 
