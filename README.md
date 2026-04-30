@@ -54,4 +54,6 @@
 
 26. Dice Roll Simulator using random library in Python ---> For output: run `python dice_roll_simulation.py`
 
-27. 
+27. BMI Calculator in Python ---> For output: run `python bmi_calculator.py`
+
+28. 
