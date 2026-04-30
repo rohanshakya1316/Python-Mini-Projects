@@ -44,4 +44,6 @@
 
 21. Violin Plot using Seaborn and Matplotlib in Python ---> violin_plot.png
 
-22. 
+22. Text Wrapping using textwrap library in Python ---> For output: run `python text_wrapping.py`
+
+23. 
