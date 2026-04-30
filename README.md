@@ -56,4 +56,4 @@
 
 27. BMI Calculator in Python ---> For output: run `python bmi_calculator.py`
 
-28. 
+28. Treemap using plotly in Python ---> treemap.html
