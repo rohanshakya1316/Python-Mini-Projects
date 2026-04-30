@@ -50,7 +50,8 @@
 
 24. Language Detection using langdetect and langid library in Python ---> For output: run `python language_detection.py`
 
-25. Password Generation with Python ---> For output: run `python generate_password.py`
+25. Password Generation using random library in Python ---> For output: run `python generate_password.py`
 
-26. 
+26. Dice Roll Simulator using random library in Python ---> For output: run `python dice_roll_simulation.py`
 
+27. 
