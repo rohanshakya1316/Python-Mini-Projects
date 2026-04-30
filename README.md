@@ -46,4 +46,6 @@
 
 22. Text Wrapping using textwrap library in Python ---> For output: run `python text_wrapping.py`
 
-23. 
+23. Country Information Generation using countryinfo library in Python ---> For output: run `python country_info.py`
+
+24. 
